@@ -1,5 +1,6 @@
 import Image from 'next/image';
 
+// Default export for Next.js routing
 export default function AboutPage() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen bg-white px-4">
